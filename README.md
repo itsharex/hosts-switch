@@ -12,7 +12,7 @@ This is a simple desktop application developed based on [wails](https://wails.io
 ![Screenshot2](screenshot2.png "Screenshot2")
 
 ## Environmental Requirements
-Based on go v1.21+, wails v2.8.2, nodejs v20. 
+Based on go v1.22+, wails v2.9.2, nodejs v22+. 
 
 Wails applications built for Windows have a runtime requirement on the Microsoft WebView2 Runtime. Windows 11 installs WebView2 by default, but some systems do not.
 

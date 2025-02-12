@@ -12,7 +12,7 @@
 ![Screenshot2](screenshot2.png "Screenshot2")
 
 ## 环境要求
-基于 go v1.21+、wails v2.8.2、nodejs v20。
+基于 go v1.22+、wails v2.9.2、nodejs v22+。
 
 在 Windows 构建的 Wails 应用程序运行时依赖 Microsoft WebView2 Runtime 。Windows 11 默认安装 WebView2 ，但有些系统默认不会安装。
 
